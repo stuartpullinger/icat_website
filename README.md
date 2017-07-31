@@ -1,3 +1,1 @@
-# Welcome to the ICAT Project
-
-Include information from [here](https://icatproject.org/)
+This is a test version of the ICAT website which uses Github Pages.
