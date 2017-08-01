@@ -1,5 +1,6 @@
 ---
 title: Welcome to the ICAT Project
+layout: default
 ---
 
 Include information from [here](https://icatproject.org/)

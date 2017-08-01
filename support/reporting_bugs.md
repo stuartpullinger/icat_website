@@ -1,5 +1,5 @@
 ---
-title: octopus
+title: Reporting Bugs
 layout: default
 ---
 
