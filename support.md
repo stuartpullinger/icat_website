@@ -1,6 +1,4 @@
 ---
-title: Support
-description: How to get support
 ---
 
 ## Getting help
