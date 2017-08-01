@@ -10,4 +10,4 @@ TODO: content here
 ## Tutorial
 
 ## Manual
-The ICAT manual is available on Gitbook. Find it [here](TODO).
+The ICAT manual is available on Gitbook. Find it [here](https://stuartpullinger.gitbooks.io/the-icat-manual/).
