@@ -1,4 +1,4 @@
-This is a test version of the ICAT website which uses Github Pages. To change the content of the site, you will generally just need to edit a `.md` file.
+This is a test version of the ICAT website which uses Github Pages. You can view the site [here](https://stuartpullinger.github.io/icat_website/). To change the content of the site, you will generally just need to edit a `.md` file. For this purpose, files and directories starting with a `.` or `_` can be ignored.
 
 ## Site Map
 - index.md
