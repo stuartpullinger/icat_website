@@ -22,7 +22,7 @@ To get help from the ICAT team, see the [Support](support.md) page.
 To get started installing the ICAT software, go to the [Quick Start](docs/quick_start.md) or [Installation Overview](docs/installation_overview.md) pages.
 
 ### Use the ICAT APIs
-To use the [REST](apis/rest.md) or [SOAP](apis/soap.md) APIs to create or access data in ICAT, see the [APIs](apis.md) page.
+ICAT has [REST](apis/rest.md), [SOAP](apis/soap.md), [Java](https://github.com/icatproject/icat.client) and [Python](https://github.com/icatproject/python-icat) APIs to create or access data in ICAT. For more information, see the [APIs](apis.md) page.
 
 ### Develop ICAT
 To find out how ICAT works and contribute to its development, see the [Developers](developers.md) page.
