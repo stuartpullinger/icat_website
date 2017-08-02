@@ -18,3 +18,4 @@
     * [Installing Topcat](./tutorials/09TopCat.md)
     * [Logging in to TopCat](./tutorials/10LogInToTopCat.md)
     * [Next Steps](./tutorials/11NextSteps.md)
+* [Installation](./installation/README.md)
