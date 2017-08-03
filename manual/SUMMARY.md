@@ -19,4 +19,8 @@
     * [Logging in to TopCat](./tutorials/10LogInToTopCat.md)
     * [Next Steps](./tutorials/11NextSteps.md)
 * [Installation](./installation/README.md)
+* [Setting Up](./setting_up/README.md)
+  * [Create an Authentication Plugin](./setting_up/create_an_auth_plugin.md)
+  * [Create a Storage Plugin](./setting_up/create_a_storage_plugin.md)
+  * [Write an Ingestion Script](./setting_up/write_an_ingestion_script.md)
 * [Reference Documentation](./reference/README.md)
