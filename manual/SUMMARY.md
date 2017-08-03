@@ -30,3 +30,8 @@
   * [ICAT Java Client API](./apis/java_client_api.md)
   * [ICAT Python Client API](./apis/python_client_api.md)
 * [Component Reference](./component_reference/README.md)
+* [Developer Reference](./developer/README.md)
+  * [How to set up a development environment](./developer/how_to_build_env.md)
+  * [How to build ICAT](./developer/how_to_build.md)
+  * [How to submit a patch](./developer/how_to_submit_patch.md)
+  * [How to run the tests](./developer/how_to_test.md)
