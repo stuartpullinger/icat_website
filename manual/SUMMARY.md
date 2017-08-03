@@ -19,3 +19,4 @@
     * [Logging in to TopCat](./tutorials/10LogInToTopCat.md)
     * [Next Steps](./tutorials/11NextSteps.md)
 * [Installation](./installation/README.md)
+* [Reference Documentation](./reference/README.md)
