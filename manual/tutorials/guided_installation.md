@@ -4,18 +4,15 @@ TODO: Include content from https://github.com/stuartpullinger/icat_install/blob/
 
 This tutorial will lead you through the process of installing and configuring a test installation of the ICAT software.
 
-Aim
----
+## Aim
 
 The aim of this tutorial is to give the reader a introduction to the ICAT software and the process of installing and configuring it. The result of following this tutorial will be a system with enough of the ICAT components installed to allow the user to test the functionality of the software. It is important to note that the resulting system will not be fault-tolerant or secure enough to use in a production environment. It should, however, be sufficient to allow the user to load some data and interact with it to understand how the components relate to one another.
 
-Before You Start
-----------------
+## Before You Start
 
 This tutorial assumes that you have access to a system (or virtual machine) with a RedHat-derived version of GNU/Linux installed, such as CentOS, and that you are familiar with system administration on this type of operating system. This tutorial was tested on a minimal installation of CentOS version 6.6. If you are unsure which software to use to create a virtual machine, several ICAT developers have had success with the combination of VirtualBox and Vagrant. See the next optional chapter for instruction on how to do this.
 
-Software Versions
------------------
+## Software Versions
 
 Before we start installing the ICAT Software, we will install the prerequisites: OpenJDK Java, the GlassFish application server which hosts the software and the MySQL database. Other versions of Java will work with the ICAT Software including Oracle's [Java](http://www.oracle.com/technetwork/indexes/downloads/index.html). The ICAT software can also be used with the [Payara](https://www.payara.fish/) application server. (*N.B. Future versions of this tutorial will use Payara*). Finally, it is also possible to use an Oracle [database](https://www.oracle.com/database/index.html) in place of MySQL.
 
@@ -33,3 +30,17 @@ At the time of writing this tutorial, the current stable version of the ICAT Ser
 - TopCat [2.2.1](https://repo.icatproject.org/site/topcat/2.2.1/)
 
 TODO: Import the rest of the tutorial files into this directory, removing the 'Chapter XX' parts of their titles.
+
+## Contents
+
+* [Vagrant Setup](./01VagrantSetup.md)
+* [Prerequisistes](./02Prerequisites.md)
+* [Installing GlassFish](./03InstallingGlassFish.md)
+* [Installing Authentication](./04InstallingAuthentication.md)
+* [Installing the ICAT Server](./05InstallingICATServer.md)
+* [Installing the Storage Plugin](./06InstallingStoragePlugin.md)
+* [Installing the ICAT Data Service (IDS)](./07ICATDataService.md)
+* [Loading Test Data](./08TestData.md)
+* [Installing Topcat](./09TopCat.md)
+* [Logging in to TopCat](./10LogInToTopCat.md)
+* [Next Steps](./11NextSteps.md)
