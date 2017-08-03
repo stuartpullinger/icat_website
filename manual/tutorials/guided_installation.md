@@ -30,17 +30,3 @@ At the time of writing this tutorial, the current stable version of the ICAT Ser
 - TopCat [2.2.1](https://repo.icatproject.org/site/topcat/2.2.1/)
 
 TODO: Import the rest of the tutorial files into this directory, removing the 'Chapter XX' parts of their titles.
-
-## Contents
-
-* [Vagrant Setup](./01VagrantSetup.md)
-* [Prerequisistes](./02Prerequisites.md)
-* [Installing GlassFish](./03InstallingGlassFish.md)
-* [Installing Authentication](./04InstallingAuthentication.md)
-* [Installing the ICAT Server](./05InstallingICATServer.md)
-* [Installing the Storage Plugin](./06InstallingStoragePlugin.md)
-* [Installing the ICAT Data Service (IDS)](./07ICATDataService.md)
-* [Loading Test Data](./08TestData.md)
-* [Installing Topcat](./09TopCat.md)
-* [Logging in to TopCat](./10LogInToTopCat.md)
-* [Next Steps](./11NextSteps.md)
