@@ -1,9 +1,9 @@
 # Contents
 
 * [ICAT Concepts](./icat_concepts/README.md)
-  * [The ICAT Architecture](./icat_concepts/icat_architecture.md)
   * [The ICAT Model](./icat_concepts/icat_model.md)
   * [The ICAT Schema](./icat_concepts/icat_schema.md)
+  * [The ICAT Architecture](./icat_concepts/icat_architecture.md)
 * [Tutorials](./tutorials/README.md)
   * [Quick Start](./tutorials/quickstart.md)
   * [Guided Installation](./tutorials/guided_installation.md)
